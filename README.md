@@ -3,7 +3,7 @@
 
 ## Task 0 --- Git and GitHub - done
 
-![Git and GitHub - done](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%200.%20Git%20and%20GitHub/Git.png)
+![Git and GitHub - done](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%200.%20Git%20and%20GitHub/Git.jpg)
 
 ---
 
