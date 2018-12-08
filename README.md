@@ -27,7 +27,7 @@
 1
 ![Intro to HTML & CSS](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%203.%20Html%20css%20intro/html_css_udacity.png)
 2
-![Intro to HTML & CSS](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%203.%20Html%20css%20intro/html_css_base.png
+![Intro to HTML & CSS](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%203.%20Html%20css%20intro/html_css_base.png)
 ---
 
 ## Task 4 --- Responsive Web Design
