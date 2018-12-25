@@ -11,7 +11,7 @@
 - [x] 3. [Intro to HTML & CSS](task_html_css_intro)
 - [x] 4. [Responsive Web Design](task_responsive_web_design)
 - [x] 5. [JavaScript Basics](task_js_basics)
-- [x] 6. [Document Object Model](task_js_dom)
+- [x] 6. [Document Object Model](task_js_dom) [Demo] (https://anatoliyshumov.github.io/kottans-frontend/)
 
 ### Advanced Topics
 - [ ] 7. [Building a Tiny JS World]()  
