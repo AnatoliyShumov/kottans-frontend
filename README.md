@@ -1,40 +1,23 @@
-"# kottans-frontend" 
----
+# Front-End Course. Kottans
 
-## Task 0 --- Git and GitHub - done
+## Stage 0. Self-Study
 
-![Git and GitHub - done](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%200.%20Git%20and%20GitHub/Git.jpg)
+### General Basics
+- [x] 0. [Git Basics](task_git_basics)
+- [x] 1. [Linux CLI and Networking](task_linux_cli)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](task_git_collaboration)
 
----
+### Front-End Basics
+- [x] 3. [Intro to HTML & CSS](task_html_css_intro)
+- [x] 4. [Responsive Web Design](task_responsive_web_design)
+- [x] 5. [JavaScript Basics](task_js_basics)
+- [x] 6. [Document Object Model](task_js_dom)
 
-## Task 1 --- Learn the Command Line, HTTP - done
-
-![Learn the Command Line, HTTP - done](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%201.%20Linux%20CLI%2C%20and%20HTTP/Screenshot.png)
-
----
-
-## Task 2 --- Git for Team Collaboration - done
-
-1
-![Git for Team Collaboration](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%202.%20Git/Screenshot%201.png)
-2
-![Git for Team Collaboration](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%202.%20Git/Screenshot%202.png)
-
----
-
-## Task 3 --- Intro to HTML & CSS - done
-
-1
-![Intro to HTML & CSS](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%203.%20Html%20css%20intro/html_css_udacity.png)
-2
-![Intro to HTML & CSS](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%203.%20Html%20css%20intro/html_css_base.png)
----
-
-## Task 4 --- Responsive Web Design
-
-1
-![Responsive Web Design](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%204.%20Responsive%20web%20design%20/Responsive_web_udacity.png)
-2
-![Responsive Web Design](https://github.com/AnatoliyShumov/kottans-frontend/blob/master/Task%204.%20Responsive%20web%20design%20/Flexbox.png)
-
----
+### Advanced Topics
+- [ ] 7. [Building a Tiny JS World]()  
+- [ ] 8. [Object oriented JS]()
+- [ ] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
+- [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+- [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+- [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
