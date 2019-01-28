@@ -18,6 +18,6 @@
 - [ ] 8. [Object oriented JS]()
 - [ ] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 - [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-- [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+- [x] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) [Demo] (https://anatoliyshumov.github.io/kottans-frontend/)
 - [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 - [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
