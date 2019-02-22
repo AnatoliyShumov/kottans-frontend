@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.bundle.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="left-menu">
+        <div class="choice-gender__box">
+          <input type="radio" id="choice1" name="gender" value="male" />
+          <label for="choice1"><i class="fas fa-mars"></i></label>
+
+          <input type="radio" id="choice2" name="gender" value="female" />
+          <label for="choice2"><i class="fas fa-venus"></i></label>
+
+          <input type="radio" id="choice3" name="gender" value="all-gender" />
+          <label for="choice3"><i class="fas fa-venus-mars"></i></label>
+        </div>
+
+        <div class="choice-age__box">
+          <p>Age</p>
+          <input type="number" id="age-min" name="age-min" min="0" max="100" />
+          <label for="age-min"><i class="fas fa-sort-numeric-down"></i></label>
+
+          <input type="number" id="age-max" name="age-max" min="10" max="100" />
+          <label for="age-max"><i class="fas fa-sort-numeric-up"></i></label>
+        </div>
+      </div>
+      <div class="right-menu">
+        <div class="search"><input type="search" class="search-friend" value="" /></div>
+        <div class="friends-list">
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+          <div class="info default-info"><i class="fas fa-user"></i></div>
+        </div>
+      </div>
+      <div class="modal">
+        <div class="modal-content">
+          <div class="main-menu"></div>
+          <div class="middle-menu">
+            <div class="info-row__left"></div>
+            <div class="info-row__right"></div>
+          </div>
+          <div class="bottom-menu"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/bundle.js"></script>
+  </body>
+</html>
